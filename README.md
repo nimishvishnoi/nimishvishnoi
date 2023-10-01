@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <!-- Welcome Section -->
 <div align="center">
   <h1>Hey there 👋, I'm Nimish Vishnoi</h1>
-  <p>Experienced Software Engineer | Crafting solutions with Python, .NET, JavaScript, React, MongoDB, and SQL Server</p>
   <p>🌍 Adventurer at heart | 💻 Software engineer | 🤔 Curious about everything | 🇮🇳 From India | ♐️ Nov 23</p>
   <p>Let's connect and discover together! 🤝✨</p>
   <a href="https://nimishvishnoi.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" alt="Portfolio"/></a>
@@ -130,10 +129,3 @@ _Worked as .Net Developer for Web Apps._
 11. **MAC Verification App (2017)**
     - Android App to allow registered devices to use the app.
     - Technologies: PHP, MySQL, Android
-
-<!-- Contact Section -->
-## Contact
-
-📍 **Location:** Noida, Uttar Pradesh, INDIA  
-📧 **Email:** nimish.vishnoi@rocketmail.com  
-📞 **Call:** (+91) 829-971-8692
