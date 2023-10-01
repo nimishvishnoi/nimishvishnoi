@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <!-- Welcome Section -->
 <div align="center">
-  <img src="https://nimishvishnoi.github.io/assets/img/profile-img.jpg" alt="Nimish Vishnoi" width="200"/>
   <h1>Hey there 👋, I'm Nimish Vishnoi</h1>
   <p>Experienced Software Engineer | Crafting solutions with Python, .NET, JavaScript, React, MongoDB, and SQL Server</p>
   <p>🌍 Adventurer at heart | 💻 Software engineer | 🤔 Curious about everything | 🇮🇳 From India | ♐️ Nov 23</p>
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 <!-- Badges Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-blue" alt="B.Tech CSE"/>
-  <img src="https://img.shields.io/badge/Experience-5%20Years%202%20Months-brightgreen" alt="5 Years 2 Months"/>
+  <img src="https://img.shields.io/badge/Experience-5%20Years%202%20Months-brightgreen" alt="5+ Years"/>
   <img src="https://img.shields.io/badge/Location-Noida%2C%20India-orange" alt="Noida, India"/>
   <a href="mailto:nimish.vishnoi@rocketmail.com"><img src="https://img.shields.io/badge/Email-nimish.vishnoi%40gmail.com-important" alt="Email"/></a>
 </p>
