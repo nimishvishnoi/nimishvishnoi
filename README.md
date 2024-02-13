@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <p>Let's connect and discover together! 🤝✨</p>
   <a href="https://nimishvishnoi.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/nimishvishnoi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/nimish_vishnoi_"><img src="https://img.shields.io/badge/Instagram-Follow-ff69b4" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/nimishvishnoi"><img src="https://img.shields.io/badge/Instagram-Follow-ff69b4" alt="Instagram"/></a>
 </div>
 
 <!-- Badges Section -->
