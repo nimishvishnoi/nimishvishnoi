@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!-- About Me Section -->
 ## About Me
 
-I'm Nimish Vishnoi, a Software Engineer with a flair for innovation and a passion for elegant code. Armed with a Computer Science degree, my toolbox includes Python, .NET, JavaScript, React, MongoDB, and SQL Server. With over 5 years in the industry, I thrive on problem-solving and enjoy crafting innovative solutions.
+I'm Nimish Vishnoi, a Software Engineer with a flair for innovation and a passion for elegant code. Armed with a Computer Science degree, my toolbox includes Python, .NET, JavaScript, React, MongoDB, and SQL Server. With over 6.5 years in the industry, I thrive on problem-solving and enjoy crafting innovative solutions.
 
 <!-- Skills Section -->
 ## Skills
